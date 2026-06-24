@@ -4,18 +4,18 @@
 
 **Uncertainty-Aware Student–Teacher Deep Learning for Cassava PPD Segmentation**
 
-[![Paper](https://img.shields.io/badge/Paper-Food%20Control-blue)](https://doi.org/10.1016/j.foodcont.2025)
+[![Paper](https://img.shields.io/badge/Paper-Submitted-orange)](https://github.com/jokerme115/UAST-DL)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-yellow)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
 
 Official code repository for the paper:
 
-> **Detection and Quantification of Post-Harvest Physiological Deterioration in Cassava Slices: An Uncertainty-Aware Semi-Supervised DeepLabv3+ Model Based on Low-Cost RGB Imaging**
+> **Detection and Quantification of Cassava PPD with Semi-supervised Student–Teacher Deep Learning and RGB Images**
 >
 > Tao He, Hao Zhang, Xingmingyue Chen, Haixia Long
 >
-> *Food Control* (2025)
+> *Submitted to Food Control*
 
 </div>
 
@@ -250,11 +250,10 @@ $$\theta_T^{(k)} = \alpha_k\,\theta_T^{(k-1)} + (1-\alpha_k)\,\theta_S^{(k)}, \q
 
 ```bibtex
 @article{he2025uastdl,
-  title   = {Detection and Quantification of Post-Harvest Physiological Deterioration in Cassava Slices: An Uncertainty-Aware Semi-Supervised DeepLabv3+ Model Based on Low-Cost RGB Imaging},
+  title   = {Detection and Quantification of Cassava PPD with Semi-supervised Student--Teacher Deep Learning and RGB Images},
   author  = {He, Tao and Zhang, Hao and Chen, Xingmingyue and Long, Haixia},
   journal = {Food Control},
-  year    = {2025},
-  doi     = {10.1016/j.foodcont.2025}
+  note    = {Submitted}
 }
 ```
 
